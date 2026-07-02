@@ -1,0 +1,13 @@
+# Secrets & environment
+.env
+config/firebase-service-account.json
+config/ssl/
+
+# Dependencies
+node_modules/
+
+# Uploads (ephemeral on Render)
+uploads/
+
+# Logs
+*.log
